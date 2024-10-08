@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bookstore-f448b","appId":"1:92565211188:android:c2500fae6f40972f392261","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bookstore-f448b","configurations":{"android":"1:92565211188:android:c2500fae6f40972f392261","ios":"1:92565211188:ios:caf7253d70b295dc392261"}}}}}}
