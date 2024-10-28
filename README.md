@@ -1,6 +1,6 @@
 # bookstore
 
-A new Flutter project.
+Online bookstore mobile app built using Flutter, Integrated with Firebase for authentication and data storage, the app provides a seamless experience for book lovers.
 
 ## Getting Started
 
